@@ -18,3 +18,5 @@ pyflakes==3.4.0
 pytokens==0.4.1
 PyYAML==6.0.3
 virtualenv==20.38.0
+mypy==1.19.1
+pandas==3.0.1
